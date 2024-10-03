@@ -7,7 +7,7 @@ This repository is designed to be a one-stop destination for those tackling the 
 ## ✨ Features
 
 - 🟢 **Daily Updated Solutions**: New problem solutions are added daily, keeping the repository fresh and up-to-date.
-- 📘 **Java Code**: All solutions are written in **Java**, ensuring clarity and compatibility with the latest programming standards.
+- 📘 **Java Code**: All solutions are written in mostly **Java** or **C++**, ensuring clarity and compatibility with the latest programming standards.
 - ✅ **Optimized Code**: Solutions are designed with an emphasis on **efficiency** and **readability**.
 - 💡 **Problem Explanations**: Along with the code, some solutions come with comments and explanations to help you understand the approach better.
 

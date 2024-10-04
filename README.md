@@ -1,5 +1,7 @@
 # 👋 Welcome to the GeeksforGeeks POTD Solutions Repo!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=0e75b6&style=flat" alt="hari7261" /> </p>
+
 Hello, and welcome to the **GeeksforGeeks Problem of the Day (POTD)** solutions repository! 🎉 Here, I upload **daily Java solutions** to the GeeksforGeeks POTD, helping fellow programmers with practical and efficient problem-solving techniques.
 
 This repository is designed to be a one-stop destination for those tackling the daily coding challenges on GeeksforGeeks. Whether you're preparing for coding interviews, brushing up on your problem-solving skills, or just want to stay sharp, you'll find the solutions here helpful and easy to understand!

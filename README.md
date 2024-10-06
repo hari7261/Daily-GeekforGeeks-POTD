@@ -1,6 +1,6 @@
 # 👋 Welcome to the GeeksforGeeks POTD Solutions Repo!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hari7261&label=Profile%20views&color=0e75b6&style=flat" alt="hari7261" /> </p>
+![](https://komarev.com/ghpvc/?username=hari7261&abbreviated=true)
 
 Hello, and welcome to the **GeeksforGeeks Problem of the Day (POTD)** solutions repository! 🎉 Here, I upload **daily Java solutions** to the GeeksforGeeks POTD, helping fellow programmers with practical and efficient problem-solving techniques.
 
